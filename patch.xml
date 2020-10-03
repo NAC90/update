@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch version="V0104">
+  <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
+  <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
+  <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
+  <Payload>AudaicaKeyboard.exe</Payload>
+  <Payload>AudaicaKeyboardCommon.dll</Payload>
+  <Payload>AKUpdater.dll</Payload>
+</Patch>
