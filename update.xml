@@ -4,5 +4,6 @@
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/update.xml</RemoteConfigUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
-  <Payload>ak.zip</Payload>
+  <Payload>AudaicaKeyboard.exe</Payload>
+  <Payload>AudaicaKeyboardCommon.dll</Payload>
 </Manifest>
