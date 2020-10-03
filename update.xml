@@ -3,6 +3,6 @@
   <CheckInterval>900</CheckInterval>
   <RemoteConfigUri>https://moviedb.ddns.net/files/keyboard/update.xml</RemoteConfigUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
-  <BaseUri>https://moviedb.ddns.net/files/keyboard/</BaseUri>
+  <BaseUri>https://github.com/NAC90/update/blob/master/</BaseUri>
   <Payload>ak.zip</Payload>
 </Manifest>
