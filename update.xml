@@ -6,4 +6,5 @@
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
   <Payload>AudaicaKeyboard.exe</Payload>
   <Payload>AudaicaKeyboardCommon.dll</Payload>
+  <Payload>AKUpdater.dll</Payload>
 </Manifest>
