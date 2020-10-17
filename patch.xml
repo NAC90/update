@@ -11,4 +11,5 @@
   <Payload>Plugins/AKCounterPlugin.dll</Payload>
   <Payload>Plugins/AKMutePlugin.dll</Payload>
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
+  <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
 </Patch>
