@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch version="V01222.0">
+<Patch version="V01222.1">
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
   <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
@@ -13,5 +13,6 @@
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
   <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
   <Changelog>Modify Counter Plugin View</Changelog>
+  <Changelog>Modify Update Hotkey plugin</Changelog>
   <Changelog>Modify Program Monitor View</Changelog>
 </Patch>
