@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch version="V0210312.3">
+<Patch version="V0210312.4">
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
   <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
@@ -42,4 +42,5 @@
   <Changelog>New notification messages</Changelog>
   <Changelog>New settings window</Changelog>
   <Changelog>Add response notification windows</Changelog>
+  <Changelog>Clean backup files from settings</Changelog>
 </Patch>
