@@ -3,15 +3,34 @@
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
   <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
-  <Payload>AudaicaKeyboard.exe</Payload>
-  <Payload>AudaicaKeyboardCommon.dll</Payload>
   <Payload>AudaicaKeyboard.exe.config</Payload>
-  <Payload>AKUpdater.dll</Payload>
+  <Payload>AudaicaKeyboardCommon.dll</Payload>
   <Payload>Discord.Net.Commands.dll</Payload>
   <Payload>Discord.Net.Core.dll</Payload>
   <Payload>Discord.Net.Rest.dll</Payload>
   <Payload>Discord.Net.Webhook.dll</Payload>
   <Payload>Discord.Net.WebSocket.dll</Payload>
+  <Payload>FontAwesome5.dll</Payload>
+  <Payload>FontAwesome5.Net.dll</Payload>
+  <Payload>Hardcodet.Wpf.TaskbarNotification.dll</Payload>
+  <Payload>Microsoft.Bcl.AsyncInterfaces.dll</Payload>
+  <Payload>Newtonsoft.Json.dll</Payload>
+  <Payload>patch.xml</Payload>
+  <Payload>SharpVectors.Converters.Wpf.dll</Payload>
+  <Payload>SharpVectors.Core.dll</Payload>
+  <Payload>SharpVectors.Css.dll</Payload>
+  <Payload>SharpVectors.Dom.dll</Payload>
+  <Payload>SharpVectors.Model.dll</Payload>
+  <Payload>SharpVectors.Rendering.Gdi.dll</Payload>
+  <Payload>SharpVectors.Rendering.Wpf.dll</Payload>
+  <Payload>SharpVectors.Runtime.Wpf.dll</Payload>
+  <Payload>System.Collections.Immutable.dll</Payload>
+  <Payload>System.Interactive.Async.dll</Payload>
+  <Payload>System.Linq.Async.dll</Payload>
+  <Payload>System.Runtime.CompilerServices.Unsafe.dll</Payload>
+  <Payload>System.Threading.Tasks.Extensions.dll</Payload>
+  <Payload>AKUpdater.dll</Payload>
+  <Payload>AudaicaKeyboard.exe</Payload>
   <Payload>Plugins/AKMultimediaPlugin.dll</Payload>
   <Payload>Plugins/AKCounterPlugin.dll</Payload>
   <Payload>Plugins/AKContactPlugin.dll</Payload>
@@ -20,10 +39,5 @@
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
   <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
   <Payload>Plugins/AKTwitchChatPlugin.dll</Payload>
-  <Payload>System.Collections.Immutable.dll</Payload>
-  <Payload>System.Interactive.Async.dll</Payload>
-  <Payload>System.Linq.Async.dll</Payload>
-  <Payload>System.Runtime.CompilerServices.Unsafe.dll</Payload>
-  <Payload>System.Threading.Tasks.Extensions.dll</Payload>
-  <Changelog>Datum korrigiert :( und Feedback Möglichkeiten eingebaut (über Einstellungen/SendFeedback)</Changelog>
+  <Changelog>Bugfix for update dependencies</Changelog>
 </Patch>
