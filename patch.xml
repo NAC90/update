@@ -38,9 +38,7 @@
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
   <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
   <Payload>Plugins/AKTwitchChatPlugin.dll</Payload>
-  <Changelog>Bugfix for update dependencies</Changelog>
-  <Changelog>New notification messages</Changelog>
-  <Changelog>New settings window</Changelog>
-  <Changelog>Add response notification windows</Changelog>
-  <Changelog>Clean backup files from settings</Changelog>
+  <Changelog>Add direct messages for clients</Changelog>
+  <Changelog>Show direct messages on startup</Changelog>
+  <Changelog>Show all received direct messages on Settings/Notification History</Changelog>
 </Patch>
