@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch version="V0210315.1">
+<Patch version="V0210316.0">
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
   <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
@@ -38,7 +38,6 @@
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
   <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
   <Payload>Plugins/AKTwitchChatPlugin.dll</Payload>
-  <Changelog>Add Patch View under Settings/Patches</Changelog>
-  <Changelog>Add right click drag and drop to copy all settings to another slot</Changelog>
-  <Changelog>Showing plugin names for available plugins</Changelog>
+  <Changelog>Bugfix for ClientID registration</Changelog>
+  <Changelog>Extend settings for sending debug information</Changelog>
 </Patch>
