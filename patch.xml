@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch version="V0210406.0">
+<Patch version="V0210421.0">
   <RemoteConfigUri>https://raw.githubusercontent.com/NAC90/update/master/patch.xml</RemoteConfigUri>
   <SecurityToken>DX6HE33A7-E787-4CC4-B020-878BA6-49B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/NAC90/update/master/</BaseUri>
@@ -30,6 +30,7 @@
   <Payload>System.Threading.Tasks.Extensions.dll</Payload>
   <Payload>AKUpdater.dll</Payload>
   <Payload>AudaicaKeyboard.exe</Payload>
+  <Payload>Plugins/AKApexTrackerPlugin.dll</Payload>
   <Payload>Plugins/AKMultimediaPlugin.dll</Payload>
   <Payload>Plugins/AKCounterPlugin.dll</Payload>
   <Payload>Plugins/AKCorePlugin.dll</Payload>
@@ -39,7 +40,9 @@
   <Payload>Plugins/AKProgramPlugin.dll</Payload>
   <Payload>Plugins/AKHotkeyPlugin.dll</Payload>
   <Payload>Plugins/AKTwitchChatPlugin.dll</Payload>
-  <Changelog>Add network connection check for updates</Changelog>
-  <Changelog>Show network connection on streamdeck</Changelog>
-  <Changelog>Sorter plugin names</Changelog>
+  <Changelog>Add Apex Kill Tracker plugin</Changelog>
+  <Changelog>Add plugin settings</Changelog>
+  <Changelog>Modify Window management</Changelog>
+  <Changelog>Add additional DebugInformation</Changelog>
+  <Changelog>Preparation for Steelseries game engine support</Changelog>
 </Patch>
